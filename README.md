@@ -1,6 +1,8 @@
 
+[![Website](https://img.shields.io/badge/Personal%20Website-%23000000.svg?style=for-the-badge&logo=none)](https://naderjardak.netlify.app)
+
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jrnader#8553) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NaderJardark) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nader-jardak-4627811b3/) [![Website](https://img.shields.io/badge/Personal%20Website-%23000000.svg?style=for-the-badge&logo=none)](https://naderjardak.netlify.app)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jrnader#8553) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NaderJardark) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nader-jardak-4627811b3/) 
 
 
 # 💻 Tech Stack:
